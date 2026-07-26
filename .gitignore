@@ -1,0 +1,27 @@
+# Trained model files
+*.pkl
+*.joblib
+
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Google Colab
+*.log
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
