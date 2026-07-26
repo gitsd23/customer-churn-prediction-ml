@@ -248,7 +248,7 @@ The use of balanced class weights also helped address the class imbalance presen
 
 The performance of the tested Machine Learning models is visualized below.
 
-![Model Comparison](images/Model Comparison.png)
+![Model Comparison](images/Model_Comparison.png)
 
 ---
 
@@ -263,7 +263,7 @@ The confusion matrix helps identify:
 - Incorrectly predicted customers who were expected to churn but stayed.
 - Correctly predicted customers who churned.
 
-![Confusion Matrix](images/Confusion Matrix.png)
+![Confusion Matrix](images/Random_forset_Confusion_Matrix.png)
 
 ---
 
