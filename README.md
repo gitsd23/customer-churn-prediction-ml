@@ -79,7 +79,7 @@ The analysis included:
 
 The churn distribution was visualized to understand the imbalance between customers who stayed and customers who churned.
 
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](images/Churn_Distribution.jpg)
 
 ---
 
@@ -248,7 +248,7 @@ The use of balanced class weights also helped address the class imbalance presen
 
 The performance of the tested Machine Learning models is visualized below.
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/Model_Comparison.png)
 
 ---
 
@@ -263,7 +263,7 @@ The confusion matrix helps identify:
 - Incorrectly predicted customers who were expected to churn but stayed.
 - Correctly predicted customers who churned.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix.png)
 
 ---
 
